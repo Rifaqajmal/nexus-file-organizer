@@ -71,17 +71,16 @@ python NexusFile_Pro.py
 
 ```
 Nexus-File-Organizer
-│
-├── NexusFile_Pro.py
-├── NexusFile_Pro.spec
 ├── assets
 │   ├── 1.Interface.png
 │   ├── 2.testing_folder.png
 │   ├── 3.Pie_Chart.png
 │   ├── 4.Folder_detail.png
 │   └── 5.After_organizing.png
-│
+├── NexusFile_Pro.py
+├── NexusFile_Pro.spec│
 └── README.md
+└── requirements.txt
 ```
 
 ---
