@@ -27,19 +27,7 @@ The application provides a graphical user interface (GUI) that helps users manag
 
 ---
 
-## How to Run
 
-Run the Python file:
-
-```
-python NexusFile_Pro.py
-```
-
-Or run the provided executable:
-
-```
-NexusFile Pro Advanced.exe
-```
 ## Application Preview
 
 ### Interface
@@ -61,6 +49,5 @@ NexusFile Pro Advanced.exe
 ## Authors
 
 Rifaq Ajmal
-Muhammad Uzair
 
 Semester Project – BS Computer Science
