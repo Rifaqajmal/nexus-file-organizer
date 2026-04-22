@@ -40,7 +40,22 @@ Or run the provided executable:
 ```
 NexusFile Pro Advanced.exe
 ```
+## Application Preview
 
+### Interface
+![Interface](assets/1.Interface.png)
+
+### Testing Folder
+![Testing Folder](assets/2.testing_folder.png)
+
+### Pie Chart
+![Pie Chart](assets/3.Pie_Chart.png)
+
+### Folder Details
+![Folder Detail](assets/4.Folder_detail.png)
+
+### After Organizing Files
+![After Organizing](assets/5.After_organizing.png)
 ---
 
 ## Authors
