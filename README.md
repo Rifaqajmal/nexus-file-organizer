@@ -49,5 +49,3 @@ The application provides a graphical user interface (GUI) that helps users manag
 ## Authors
 
 Rifaq Ajmal
-
-Semester Project – BS Computer Science
