@@ -71,6 +71,7 @@ python NexusFile_Pro.py
 
 ```
 Nexus-File-Organizer
+├── LICENSE
 ├── assets
 │   ├── 1.Interface.png
 │   ├── 2.testing_folder.png
