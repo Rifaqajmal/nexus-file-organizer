@@ -27,6 +27,11 @@ In addition to file organization, the application also provides **visual analyti
 - Ability to **compress folders into ZIP files**
 - Simple and user-friendly **Graphical User Interface (GUI)**
 
+## Demo
+
+Watch the project demonstration below.
+
+
 ---
 
 ## Technologies Used
