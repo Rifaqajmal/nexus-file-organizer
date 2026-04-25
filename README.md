@@ -30,6 +30,7 @@ In addition to file organization, the application also provides **visual analyti
 ## Demo
 
 Watch the project demonstration below.
+https://www.linkedin.com/posts/rifaq-ajmal-4b5a513b3_python-github-studentproject-ugcPost-7453872799632461825-BV5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGURhokBRPJSedoZ1evMuynpCLLGrwMHIFg
 
 
 ---
