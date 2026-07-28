@@ -29,9 +29,8 @@ In addition to file organization, the application also provides **visual analyti
 
 ## Demo
 
-Watch the project demonstration below.
-https://www.linkedin.com/posts/rifaq-ajmal-4b5a513b3_python-github-studentproject-ugcPost-7453872799632461825-BV5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGURhokBRPJSedoZ1evMuynpCLLGrwMHIFg
-
+Watch the project demonstration on LinkedIn:
+🔗 [Project Demo Video](https://www.linkedin.com/posts/rifaq-ajmal-4b5a513b3_python-github-studentproject-ugcPost-7453872799632461825-BV5h)
 
 ---
 
@@ -47,26 +46,22 @@ https://www.linkedin.com/posts/rifaq-ajmal-4b5a513b3_python-github-studentprojec
 
 ## Installation
 
-### 1 Clone the repository
-
+### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Nexus-File-Organizer.git
+git clone https://github.com/Rifaqajmal/nexus-file-organizer.git
 ```
 
-### 2 Navigate to the project folder
-
+### 2. Navigate to the project folder
 ```bash
-cd Nexus-File-Organizer
+cd nexus-file-organizer
 ```
 
-### 3 Install required libraries
-
+### 3. Install required libraries
 ```bash
-pip install pandas matplotlib pillow customtkinter
+pip install -r requirements.txt
 ```
 
-### 4 Run the application
-
+### 4. Run the application
 ```bash
 python NexusFile_Pro.py
 ```
@@ -76,18 +71,18 @@ python NexusFile_Pro.py
 ## Project Structure
 
 ```
-Nexus-File-Organizer
+Nexus-File-Organizer/
 ├── LICENSE
-├── assets
+├── assets/
 │   ├── 1.Interface.png
 │   ├── 2.testing_folder.png
 │   ├── 3.Pie_Chart.png
 │   ├── 4.Folder_detail.png
 │   └── 5.After_organizing.png
 ├── NexusFile_Pro.py
-├── NexusFile_Pro.spec│
+├── NexusFile_Pro.spec
+├── requirements.txt
 └── README.md
-└── requirements.txt
 ```
 
 ---
@@ -113,7 +108,14 @@ Nexus-File-Organizer
 
 ## Authors
 
-**Rifaq Ajmal**  
-**Muhammad Uzair**
+**Rifaq Ajmal**
+BS Computer Science — Semester Project
+- 🐙 GitHub: [@Rifaqajmal](https://github.com/Rifaqajmal)
+- 💼 LinkedIn: [linkedin.com/in/rifaq-ajmal-4b5a513b3](https://linkedin.com/in/rifaq-ajmal-4b5a513b3)
 
-BS Computer Science – Semester Project
+**Muhammad Uzair**
+BS Computer Science — Semester Project
+
+---
+
+> ⭐ If you found this project useful, consider giving it a star!
